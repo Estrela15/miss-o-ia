@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "É uma espécie muito importante, deve ser valorizada e conservada a todo custo, não podemos perder esta ave tão importante e representativa para o país.",
-                afirmacao: "É importante preservar o nosso passado e alia-lo ao nosso presente e futuro pois é o legado da nossa nação. Protegendo uma espécie importante como essa e tão represdentativa para o nosso país nos unira como nação, com tanta diversidade em nosso país é importante nos unirmos em uma causa importante que nos representa tanto e trás todo o nosso passado."
+                afirmacao: "É importante preservar o nosso passado e alia-lo ao nosso presente e futuro pois é o legado da nossa nação. Protegendo uma espécie importante como essa e tão representativa para o nosso país nos unira como nação, com tanta diversidade em nosso país é importante nos unirmos em uma causa importante que nos representa tanto e trás todo o nosso passado."
             },
             {
                 texto: "Temos outras aves que são mais importantes, uma a menos não vai fazer falta.",
