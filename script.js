@@ -61,12 +61,12 @@ const perguntas = [
         enunciado: "Existem vários projetos e iniciativas dedicados à proteção da harpia. O Projeto Harpia, por exemplo, trabalha na pesquisa e monitoramento da espécie em diversas regiões do Brasil. Eles colaboram com comunidades locais para educar sobre a importância da ave e também promovem ações de manejo e reintrodução em cativeiro para tentar restaurar as populações. O trabalho de conservação inclui também a reabilitação de aves feridas e a criação de programas para proteger ninhos. A conservação da harpia é fundamental para manter o equilíbrio de ecossistemas florestais, e o sucesso desses esforços depende da conscientização e do apoio de toda a sociedade. ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "A harpia é a maior representação do nosso país e é nosso dever como nação proteger elas e ajudar na causa contra a extinção desses animal magnífico.",
+                afirmacao: "A harpia é a maior representação do nosso país e é nosso dever como nação proteger elas e ajudar na causa contra a extinção desses animal magnífico."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Realmente, a harpia foi um animal representativo para o nosso país , porém não acho que devemos nos preocupar tanto com algo do passado, precisamos nos de progresso e utilizar coisas mais atuais como símbolo da nossa nação.",
+                afirmacao: "Realmente, a harpia foi um animal representativo para o nosso país , porém não acho que devemos nos preocupar tanto com algo do passado, precisamos nos de progresso e utilizar coisas mais atuais como símbolo da nossa nação. "
             }
         ]
     },
