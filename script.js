@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "É antigo, tem que mudar mesmo. Me importo mais com outras espécies",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                afirmacao: "Prezo por coisas mais modernas e que representem mais o meu país nos tempos atuais."
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "É uma espécie muito importante, deve ser valorizada e conservada a todo custo, não podemos perder esta ave tão importante e representativa para o país.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                afirmacao: "É importante preservar o nosso passado e alia-lo ao nosso presente e futuro pois é o legado da nossa nação. Protegendo uma espécie importante como essa e tão represdentativa para o nosso país nos unira como nação, com tanta diversidade em nosso país é importante nos unirmos em uma causa importante que nos representa tanto e trás todo o nosso passado."
             },
             {
                 texto: "Temos outras aves que são mais importantes, uma a menos não vai fazer falta.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "Não acho que um país como tanta diversidade de fauna deveriamos nos apegar a um animal só, que nos últimos anos não tem quase nenhuma representatividade para as pessoas do nosso país."
             }
         ]
     },
